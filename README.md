@@ -31,7 +31,17 @@ Each tool has a set of developer API (Application Programming Interface) tools f
 - Automated/Robo Phone Calls
 - AWS Amazon Web Services
 
+---
+## Planned Developer APIs
 
+* https://developers.docusign.com/
+* https://developers.google.com/apps-script/reference/forms/
+* https://www.twilio.com/docs/api
+* https://sendgrid.com/docs/Integrate/Code_Examples/v2_Mail/nodejs.html
+* https://developer.salesforce.com/page/Salesforce_APIs
+* https://github.com/basecamp/basecamp-classic-api
+
+---
 ## Deadline Estimates & Goals
 - **End of Q2:** Roughly 90 days or less of development process
 
@@ -57,17 +67,6 @@ Dominos has a pizza tracker function. We would be using this as a base visual in
 ### Example Use of PivotalTracker
 
 ![Pivotal Tracker](https://github.com/leodotng/LauthInvestigationsAppProposal/blob/master/img/pivotaltracker.png)
-
----
-## Planned Developer APIs
-
-* https://developers.docusign.com/
-* https://developers.google.com/apps-script/reference/forms/
-* https://www.twilio.com/docs/api
-* https://sendgrid.com/docs/Integrate/Code_Examples/v2_Mail/nodejs.html
-* https://developer.salesforce.com/page/Salesforce_APIs
-* https://github.com/basecamp/basecamp-classic-api
-
 
 ---
 ## Contact
