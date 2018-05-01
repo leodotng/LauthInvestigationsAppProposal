@@ -61,7 +61,6 @@ Dominos has a pizza tracker function. We would be using this as a base visual in
 * Integration with HubSpot
 * Integration with Salesforce
 * Mobile Application access
-* 
 ---
 ## Contact
 >Josh Leong
