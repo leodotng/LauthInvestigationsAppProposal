@@ -42,8 +42,8 @@ Each tool has a set of developer API (Application Programming Interface) tools f
 * https://github.com/basecamp/basecamp-classic-api
 
 ---
-## Deadline Estimates & Goals
-- **End of Q2:** Roughly 90 days or less of development process
+## Deadline Requirements
+- **End of Q2:**
 
 ---
 
