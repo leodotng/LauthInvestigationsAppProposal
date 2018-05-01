@@ -13,9 +13,9 @@ Approximately 30 minutes per case is lost due to excessive data entry, switching
 ## Solution & Goals
 Build a custom web application centralized dashboard that integrates with 5+ CRM and misc tools, automates excessive data entry and phone call tasks, and notifies all parties via electronic notifications each step of the process all at the click of a button.
 
-Goal # 1: Eliminate excess and repetitive data entry (CRM / Google Forms / Excel Spreadsheets).
-Goal # 2: Eliminate/Reduce the need for phone calls that require client or salesperson to ask for update such as "Did you send this?" via notifications. 
-Goal # 3: Integrate state form templates of paperwork each state requires specific to them.
+* Goal # 1: Eliminate excess and repetitive data entry (CRM / Google Forms / Excel Spreadsheets).
+* Goal # 2: Eliminate/Reduce the need for phone calls that require client or salesperson to ask for update such as "Did you send this?" via notifications. 
+* Goal # 3: Integrate state form templates of paperwork each state requires specific to them.
 
 Dominos has a pizza tracker function. We would be using this as a base visual influence for progress tracking.
 ![Dominos](http://www.www.com/mockup.png)
