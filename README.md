@@ -51,14 +51,23 @@ Web page Mockups
 * Integration with HubSpot
 * Integration with Salesforce
 * Mobile Application access
-* 
-
 ---
 
 ## Project Progress Tracking Plan
 ### Use of PivotalTracker
 * Mobile Application access via React Native iphone App
 ![Pivotal Tracker](http://www.www.com/mockup.png)
+
+---
+## Developer APIs
+
+* https://developers.docusign.com/
+* https://developers.google.com/apps-script/reference/forms/
+* https://www.twilio.com/docs/api
+* https://sendgrid.com/docs/Integrate/Code_Examples/v2_Mail/nodejs.html
+* https://developer.salesforce.com/page/Salesforce_APIs
+* https://github.com/basecamp/basecamp-classic-api
+
 
 ---
 ## Contact
