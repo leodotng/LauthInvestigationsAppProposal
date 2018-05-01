@@ -61,13 +61,7 @@ Dominos has a pizza tracker function. We would be using this as a base visual in
 * Integration with HubSpot
 * Integration with Salesforce
 * Mobile Application access
----
-
-## Project Deliverables Progress Tracking Plan
-### Example Use of PivotalTracker
-
-![Pivotal Tracker](https://github.com/leodotng/LauthInvestigationsAppProposal/blob/master/img/pivotaltracker.png)
-
+* 
 ---
 ## Contact
 >Josh Leong
