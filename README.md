@@ -17,9 +17,6 @@ Build a custom web application centralized dashboard that integrates with 5+ CRM
 * Goal # 2: Eliminate/Reduce the need for phone calls that require client or salesperson to ask for update such as "Did you send this?" via notifications. 
 * Goal # 3: Integrate state form templates of paperwork each state requires specific to them.
 
-Dominos has a pizza tracker function. We would be using this as a base visual influence for progress tracking.
-![Dominos](https://github.com/leodotng/LauthInvestigationsAppProposal/blob/master/img/dominos.jpg)
-
 Each tool has a set of developer API (Application Programming Interface) tools for integration.
 ---
 
@@ -44,6 +41,9 @@ Each tool has a set of developer API (Application Programming Interface) tools f
 ![Mockup Here](https://github.com/leodotng/LauthInvestigationsAppProposal/blob/master/img/lauth.png)
 
 Web page Mockups
+Tracker Design Influence:
+Dominos has a pizza tracker function. We would be using this as a base visual influence for progress tracking.
+![Dominos](https://github.com/leodotng/LauthInvestigationsAppProposal/blob/master/img/dominos.jpg)
 
 ---
 
@@ -53,13 +53,13 @@ Web page Mockups
 * Mobile Application access
 ---
 
-## Project Progress Tracking Plan
-### Use of PivotalTracker
-* Mobile Application access via React Native iphone App
+## Project Deliverables Progress Tracking Plan
+### Example Use of PivotalTracker
+
 ![Pivotal Tracker](https://github.com/leodotng/LauthInvestigationsAppProposal/blob/master/img/pivotaltracker.png)
 
 ---
-## Developer APIs
+## Planned Developer APIs
 
 * https://developers.docusign.com/
 * https://developers.google.com/apps-script/reference/forms/
